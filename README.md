@@ -8,7 +8,7 @@
 - Emulator or physical device
 
 ## Setup
-- [Clone this project](https://github.com/Captainfast007/Zerobalance.git) ```git clone https://github.com/Captainfast007/ass4.git```
+- [Clone this project](https://github.com/Captainfast007/Zerobalance.git) ```git clone https://github.com/Captainfast007/Zerobalance.git```
 - cd to assignment
 - Install dependencies 
 - Start the emulator 
