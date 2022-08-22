@@ -1,16 +1,21 @@
 # zerobalance
 
-A new Flutter project.
+- This is a flutter app made according to the conditions given in assignment.
 
-## Getting Started
+## Requirements
+- git
+- flutter 
+- Emulator or physical device
 
-This project is a starting point for a Flutter application.
+## Setup
+- [Clone this project](https://github.com/Captainfast007/Zerobalance.git) ```git clone https://github.com/Captainfast007/ass4.git```
+- cd to assignment
+- Install dependencies 
+- Start the emulator 
+- Run the app
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Important things to know
+- I have used hivedb, a NoSQL database to store data in device.
+- I have used Network Image so it will load when the device is connected to internet.
+- Icons are not accurate as per figma design, i hope it doesnt make any worries.
+- If cardbalance goes below zero it doesn't make any changes.
